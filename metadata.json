@@ -1,0 +1,8 @@
+
+{
+  "name": "Arix Signature Interactive Christmas Tree",
+  "description": "A high-fidelity 3D interactive experience featuring a morphing particle-based Christmas tree with cinematic bloom, emerald green and metallic gold aesthetics, powered by Gemini AI for personalized holiday greetings.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
